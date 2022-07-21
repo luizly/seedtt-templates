@@ -1,3 +1,24 @@
+# PLAN
+
+App.js = router, routes, route, link
+
+Components:
+Navbar1 = (Navbar without login status)
+Navbar2 = (Navbar with login status)
+
+Pages: 
+1) Home
+2) About
+3) Contact
+4) Products
+5) Extra - Additional Page, single link on Nav
+6) Extra2 - Additional Page2, dropdown on Nav
+7) ErrorPage
+8) LoginPage
+
+Hooks: 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
